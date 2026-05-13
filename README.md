@@ -41,10 +41,14 @@ The dashboard was designed to help stakeholders make data-driven decisions that 
 
 📁 Pizza-Sales-Analysis
 │
-├── 📄 pizza_sales.csv          # Raw dataset
-├── 📄 pizza.pbix               # Power BI dashboard file
 ├── 📄 Problem Statement.pdf    # Business requirements
 ├── 📄 README.md                # Project documentation
+├── 📄 page_1.png               # Project dashboard 1
+├── 📄 page_2.png               # Project dashboard 2
+├── 📄 page_3.png               # Project model view
+├── 📄 pizza.pbix               # Power BI dashboard file
+├── 📄 pizza_sales.csv          # dataset
+
 
 ---
 
