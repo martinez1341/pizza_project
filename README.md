@@ -204,20 +204,3 @@ Potential enhancements for this project:
 
 Ndubuisi Chukwu
 Data Analyst | Power BI Developer | Aspiring Data Scientist
-
-### Connect With Me
-- GitHub: Add your GitHub profile link
-- LinkedIn: Add your LinkedIn profile link
-- Portfolio: Add your portfolio link
-
----
-
-## ⭐ If You Found This Useful
-
-Please consider giving this repository a star ⭐ to support the project and future analytics content.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
